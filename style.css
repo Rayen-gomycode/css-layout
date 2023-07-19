@@ -1,0 +1,25 @@
+#section1{
+margin-left: 20%;
+margin-right: 20%;
+display :flex ;
+
+flex-direction:column ;
+align-items: center;
+}
+#Logostar {
+margin-left:auto ;
+margin-right: auto;
+
+}
+h1{
+
+    color: #00b39b;
+}
+
+#paragraph {
+display: flex;
+padding: 5px;
+}
+.country-name{
+display: flex;
+}

@@ -20,6 +20,10 @@ h1{
 display: flex;
 padding: 5px;
 }
+#countries{
+display: flex;
+flex-wrap: wrap;
+}
 .country-name{
 display: flex;
 }
